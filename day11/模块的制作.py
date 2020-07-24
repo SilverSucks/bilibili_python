@@ -25,7 +25,6 @@ python文件都可以作为一个模块，模块的名字就是文件的名字�
 # from test import add
 # from test import subtract
 # 方式三，from关键字导入所有
-from test import *
 
 # 调用模块中的add()方法
 # result = test.add(1, 2)
